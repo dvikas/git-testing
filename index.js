@@ -1,15 +1,12 @@
 function add(a, b) {
+    // This is my sample comment
     return a + b;
 }
 
-
-
-add(2,3);
-
-function sub(c, d) {
+function subtract(c, d) {
+    // This is my sample comment
     return c - d;
 }
 
-
-
-sub(5,3);
+subtract(5, 3);
+add(2, 3);
