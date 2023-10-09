@@ -5,7 +5,7 @@ function add(a, b) {
 
 function subtract(c, d) {
     // This is my sample comment
-    return c - d;
+    return (c - d);
 }
 
 subtract(5, 3);
