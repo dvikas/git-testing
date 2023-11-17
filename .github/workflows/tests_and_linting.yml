@@ -1,4 +1,4 @@
-name: 'Check Branch'
+name: 'Check Branch 1'
 
 on:
   pull_request:
